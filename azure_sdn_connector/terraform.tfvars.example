@@ -1,0 +1,10 @@
+resource_group_and_subscription = {
+  "rg_sub_01" = {
+    "resource_group"  = "extra-route-tables-01"
+    "subscription_id" = "00000000-0000-0000-0000-000000000000"
+  }
+  "rg_sub_02" = {
+    "resource_group"  = "extra-route-tables-02"
+    "subscription_id" = "00000000-0000-0000-0000-000000000000"
+  }
+}
